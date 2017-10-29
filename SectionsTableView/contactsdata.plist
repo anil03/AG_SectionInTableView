@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>anil gupta</string>
+		<key>email</key>
+		<string>anil03gupta03@gmail.com</string>
+		<key>mobile</key>
+		<string>+91 9820648212</string>
+		<key>website</key>
+		<string>theyellowstrawberry.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>shivam singh</string>
+		<key>email</key>
+		<string>shivam@gmail.com</string>
+		<key>mobile</key>
+		<string></string>
+		<key>website</key>
+		<string>theyellowstrawberry.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>anu</string>
+		<key>email</key>
+		<string>anu@gmail.com</string>
+		<key>mobile</key>
+		<string>+91 9876543210</string>
+		<key>website</key>
+		<string>abcd.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>rohit gupta</string>
+		<key>email</key>
+		<string>rohitgupta@yahoo.in</string>
+		<key>mobile</key>
+		<string>000000000</string>
+		<key>website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>anil gupta</string>
+		<key>email</key>
+		<string>anil03gupta03@gmail.com</string>
+		<key>mobile</key>
+		<string>+91 9820648212</string>
+		<key>website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string></string>
+		<key>email</key>
+		<string>xyz@gmail.com</string>
+		<key>mobile</key>
+		<string>+91 9820648212</string>
+		<key>website</key>
+		<string>theyellowstrawberry.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Zenith</string>
+		<key>email</key>
+		<string>zenith@gmail.com</string>
+		<key>mobile</key>
+		<string>+91 9812345678</string>
+		<key>website</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
